@@ -44,7 +44,7 @@ program
 .description('Deletes a product.')
 .action(deleteItem)
 
-// Defining a command called 'update'
+// Defining a command called 'search'
 program
 .command('search')
 .description('Searches a product.')
