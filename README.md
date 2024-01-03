@@ -1,6 +1,6 @@
-# An E-commerce website CLI
+# Data Wiz: A Database CLI
 
-A CLI written in node that uses MongoDB, it cna be used to perform CLI actions on e-commerce website data. It can create, delete, update, read, search and set properties for items.
+A CLI written in node that uses MongoDB as database, it can be used to perform CRUD operations on a website. When used for an e-commerce website database it can create, delete, update, read, search and setproperties for items.
 
 Set schema for you database first, then proceed with the commands.
 ### Create
